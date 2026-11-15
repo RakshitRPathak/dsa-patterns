@@ -68,3 +68,7 @@ src/main/java/dev/rakshit/dsa/   one class per pattern (+ ListNode, TreeNode)
 src/test/java/dev/rakshit/dsa/   differential tests, Gen (seeded random inputs), testkit (tiny @Test/Assert/Runner)
 build.sh                         javac -Xlint:all, then run every test
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
